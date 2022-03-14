@@ -1,5 +1,7 @@
 > 中文｜[EN](./README_EN.md)
 
+掘金: https://juejin.cn/post/7062168571329118238
+
 # 简介
 
 使用 render 函数，在 canvas 中创建文档流，快速实现布局.
